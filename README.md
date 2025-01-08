@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">Backend .Net Developer</h3>
 
+![Adsız tasarım](https://github.com/user-attachments/assets/41edff51-1019-4b1c-8e4a-7ba76ca8acb6)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbatuhanzanlier&label=Profile%20views&color=0e75b6&style=flat" alt="mbatuhanzanlier" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbatuhanzanlier" alt="mbatuhanzanlier" /></a> </p>
